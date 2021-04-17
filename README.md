@@ -3,8 +3,7 @@
 
 ## Love 
 
-![Alt text](asciidoctor.svg)
-<img src="https://simpleicons.org/icons/asciidoctor.svg" width="70">
+<img src="https://simpleicons.org/icons/asciidoctor.svg" width="50">
 
 
 ## Some of my Github Stats

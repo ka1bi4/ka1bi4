@@ -4,7 +4,7 @@
 ## Love 
 
 ![Alt text](asciidoctor.svg)
-<img src="https://simpleicons.org/icons/asciidoctor.svg">
+<img src="https://simpleicons.org/icons/asciidoctor.svg" width="70">
 
 
 ## Some of my Github Stats

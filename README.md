@@ -3,7 +3,9 @@
 
 ## Love 
 
-https://simpleicons.org/icons/asciidoctor.svg
+![Alt text](asciidoctor.svg)
+<img src="https://simpleicons.org/icons/asciidoctor.svg">
+
 
 ## Some of my Github Stats
 <p align=left> <img src=https://komarev.com/ghpvc/?username=ka1bi4 alt=ka1bi4 /> </p>

@@ -7,7 +7,7 @@
 |   |   |
 |---|---|
 | [AsciiDoc](https://asciidoc.org/) | <img src="https://simpleicons.org/icons/asciidoctor.svg" width="50"> |
-| [ClickHouse](https://clickhouse.сcom/) | <img src="https://github.com/ClickHouse/ClickHouse/blob/master/website/images/logo-180x180.png" width="50"> |
+| [ClickHouse](https://clickhouse.сcom/) | <img src="https://raw.githubusercontent.com/ClickHouse/ClickHouse/21dddf8c4cdacd4a1f25e27e23e27aec6e58b445/docs/ru/images/logo.svg" width="50"> |
 
 
 ## Some of my Github Stats

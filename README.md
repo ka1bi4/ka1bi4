@@ -7,6 +7,8 @@
 |   |   |
 |---|---|
 | [AsciiDoc](https://asciidoc.org/) | <img src="https://simpleicons.org/icons/asciidoctor.svg" width="50"> |
+| [Yandex Cloud](https://cloud.yandex.ru) | ☁ | 
+| [Terraform](https://www.terraform.io) |  <img src="https://simpleicons.org/icons/terraform.svg" width="50">
 | [ClickHouse](https://clickhouse.сcom/) | <img src="https://raw.githubusercontent.com/ClickHouse/ClickHouse/21dddf8c4cdacd4a1f25e27e23e27aec6e58b445/docs/ru/images/logo.svg" width="50"> |
 
 

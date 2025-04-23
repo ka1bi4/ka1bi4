@@ -10,7 +10,7 @@
 | [Yandex Cloud](https://cloud.yandex.ru) | ☁ | 
 | [Terraform](https://www.terraform.io) |  <img src="https://simpleicons.org/icons/terraform.svg" width="50">
 | [ClickHouse](https://clickhouse.сcom/) | <img src="https://raw.githubusercontent.com/ClickHouse/ClickHouse/21dddf8c4cdacd4a1f25e27e23e27aec6e58b445/docs/ru/images/logo.svg" width="50"> |
-| [Diplodoc](https://diplodoc.com) |  <img src="https://storage.yandexcloud.net/diplodoc-www-assets/navigation/diplodoc-logo.svg"  |
+| [Diplodoc](https://diplodoc.com) |  <img src="https://storage.yandexcloud.net/diplodoc-www-assets/navigation/diplodoc-logo.svg">  |
 
 
 ## Some of my Github Stats
